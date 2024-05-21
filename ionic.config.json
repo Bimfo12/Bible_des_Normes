@@ -1,0 +1,7 @@
+{
+  "name": "Bible_des_Normes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
